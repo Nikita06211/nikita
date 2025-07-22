@@ -14,5 +14,20 @@
 
 ## Installation
 
-You can run `nikita` without installing globally using `npx`:
+You can run `nikita` without installing globally using `npx`: npx nikita-bansal --info
+
+Or, you can install it globally:
+
+npm install -g nikita-bansal
+
+
+---
+
+## Usage
+
+Run the CLI with the `--info` flag to see the detailed info: nikita --info
+
+
+
+
 
