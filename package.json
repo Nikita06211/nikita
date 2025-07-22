@@ -1,6 +1,6 @@
 {
   "name": "nikita-bansal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "personal info CLI package",
   "main": "index.js",
   "bin": {
