@@ -1,0 +1,23 @@
+{
+  "name": "nikita-bansal",
+  "version": "1.0.0",
+  "description": "personal info CLI package",
+  "main": "index.js",
+  "bin": {
+    "nikita": "./cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": [
+    "cli",
+    "personal",
+    "info"
+  ],
+  "author": "Nikita Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "prajjwalsharma": "^1.0.2"
+  }
+}
