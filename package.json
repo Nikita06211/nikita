@@ -1,6 +1,6 @@
 {
   "name": "nikita-bansal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "personal info CLI package",
   "main": "index.js",
   "bin": {
@@ -16,8 +16,5 @@
     "info"
   ],
   "author": "Nikita Bansal",
-  "license": "ISC",
-  "dependencies": {
-    "prajjwalsharma": "^1.0.2"
-  }
+  "license": "ISC"
 }
